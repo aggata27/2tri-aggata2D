@@ -1,0 +1,14 @@
+:root {
+    --cor-de-fundo: hsl(289, 33%, 73%);
+}
+
+body {
+background-color:var(--cor-de-fundo);
+}
+
+h1{
+    background-color: rgb(252, 210, 230);
+}
+
+
+
